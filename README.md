@@ -8,11 +8,11 @@ conda create -n aerial6d python==3.8
 conda activate aerial6d
 ```
 ## Download Dataset
-[NOCS-REAL275](https://github.com/S-JingTao/Aerial6D)
-[Wild6D](https://github.com/S-JingTao/Aerial6D)
-[HouseCat6D](https://github.com/S-JingTao/Aerial6D)
-[PhoCal](https://github.com/S-JingTao/Aerial6D)
-[Omni6DPose](https://github.com/S-JingTao/Aerial6D)
+[NOCS-REAL275]([https://github.com/S-JingTao/Aerial6D](https://geometry.stanford.edu/projects/NOCS_CVPR2019/))
+[Wild6D]([https://github.com/S-JingTao/Aerial6D](https://drive.google.com/drive/folders/1SjWUcuSvYMM5rPPd4aQhK0jo1IHbCJbT))
+[HouseCat6D](https://sites.google.com/view/housecat6d)
+[PhoCal]([https://github.com/S-JingTao/Aerial6D](https://www.campar.in.tum.de/public_datasets/2022_cvpr_wang/README.html))
+[Omni6DPose]([https://github.com/S-JingTao/Aerial6D](https://jiyao06.github.io/Omni6DPose/download))
 ## Requirements
 
 * Python 3.8
