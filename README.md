@@ -29,3 +29,8 @@ After generating the estimated pose results of each frame, please run:
 ```
 python benchmark.py
 ```
+## Inference
+After preparing the data and fill in some information blanks in `inference.py`, please run:
+```sh
+python inference.py
+```
