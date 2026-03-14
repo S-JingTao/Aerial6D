@@ -1,6 +1,18 @@
 ## Aerial6D
 Aerial6D: Towards Aerial Category-Level Pose Tracking for Air-Ground Robotic Manipulation
 
+## Create Environment
+
+```bash
+conda create -n aerial6d python==3.8
+conda activate aerial6d
+```
+## Download Dataset
+[NOCS-REAL275](https://github.com/S-JingTao/Aerial6D)
+[Wild6D](https://github.com/S-JingTao/Aerial6D)
+[HouseCat6D](https://github.com/S-JingTao/Aerial6D)
+[PhoCal](https://github.com/S-JingTao/Aerial6D)
+[Omni6DPose](https://github.com/S-JingTao/Aerial6D)
 ## Requirements
 
 * Python 3.8
