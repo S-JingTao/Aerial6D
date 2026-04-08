@@ -9,10 +9,17 @@ conda activate aerial6d
 ```
 ## Download Dataset
 [NOCS-REAL275](https://geometry.stanford.edu/projects/NOCS_CVPR2019/)
+
 [Wild6D](https://drive.google.com/drive/folders/1SjWUcuSvYMM5rPPd4aQhK0jo1IHbCJbT)
+
 [HouseCat6D](https://sites.google.com/view/housecat6d)
+
 [PhoCal](https://www.campar.in.tum.de/public_datasets/2022_cvpr_wang/README.html)
+
 [Omni6DPose](https://jiyao06.github.io/Omni6DPose/download)
+
+[Objectron](https://github.com/google-research-datasets/Objectron)
+
 ## Requirements
 
 * Python 3.8
